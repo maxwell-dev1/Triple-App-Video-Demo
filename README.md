@@ -9,3 +9,8 @@ Gas State Meter Application - For managing meter tests and tracking 3rd party mo
 https://github.com/user-attachments/assets/87150bb5-ede9-4668-83cc-26cc6f6bb080
 
 HR Training Tracker - Developed for use by HR department to track employee training and compile reports for delivery to state agencies. Collects data on who performs and attends the training, when it happened, total training hours across custom time ranges, costs, etc. 
+
+
+https://github.com/user-attachments/assets/a17e0910-d972-427d-883b-e162fd392774
+
+Tamper Cluster App - Developed for viewing and managing tamper alerts on customer eletric meters. Includes ability to excuse false positive tamper alarms.
