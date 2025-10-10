@@ -14,3 +14,7 @@ HR Training Tracker - Developed for use by HR department to track employee train
 https://github.com/user-attachments/assets/a17e0910-d972-427d-883b-e162fd392774
 
 Tamper Cluster App - Developed for viewing and managing tamper alerts on customer eletric meters. Includes ability to excuse false positive tamper alarms.
+
+![Home](https://github.com/user-attachments/assets/c9717a76-26d8-43a0-84ed-24ab46b4f4fb)
+
+Inventory Sheet Conversion App - This simple static app allows users to upload a manufacturer provided CSV file containing data related to new shipments of gas meters. The app receives the uploaded CSV and transmutes the data into an excel file, which is used with 3rd party applications for managing meter inventory. 
